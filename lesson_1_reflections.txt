@@ -1,0 +1,12 @@
+By comparing the two files
+It makes it easy to ID changes that were made
+And can help debug
+
+It will make it easier to refer to code that
+I've used in the past.
+
+You can refer to logical checkpoints from when you've worked on it in the past.  Makes labeling versions with comments easier as well.
+
+For things like documents, it makes some sense to keep them separate.  For programs, files are usually associated with each other.
+
+as we did in the lecture
